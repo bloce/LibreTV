@@ -114,10 +114,7 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    }
-
-    //ARCHIVE https://telegra.ph/APIs-08-12
-
+//ARCHIVE https://telegra.ph/APIs-08-12
 };
 
 // 定义合并方法
